@@ -1,5 +1,7 @@
 # 👋 Hola, soy Cristian
 
+![Profile views](https://komarev.com/ghpvc/?username=CrisMader&color=blue)
+
 💻 **Full-Stack Developer** especializado en **React y Python (Flask)**
 Construyo aplicaciones web utilizando **APIs REST, autenticación y bases de datos relacionales**.
 
@@ -21,6 +23,21 @@ Construyo aplicaciones web utilizando **APIs REST, autenticación y bases de dat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisMader&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMader&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CrisMader&theme=tokyonight"/>
+</p>
+
+## 📈 Activity Graph
+
+[![Cristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisMader&theme=tokyo-night)](https://github.com/CrisMader)
 ---
 
 ## 🚀 Proyecto destacado
