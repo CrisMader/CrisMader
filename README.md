@@ -1,66 +1,112 @@
 # 👋 Hola, soy Cristian
 
-![Profile views](https://komarev.com/ghpvc/?username=CrisMader&color=blue)
-
-💻 **Full-Stack Developer** especializado en **React y Python (Flask)**
-Construyo aplicaciones web utilizando **APIs REST, autenticación y bases de datos relacionales**.
-
----
-
-## 🚀 Tecnologías
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisMader&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMader&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CrisMader&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=CrisMader&color=blue&style=for-the-badge"/>
 </p>
 
-## 📈 Activity Graph
-
-[![Cristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrisMader&theme=tokyo-night)](https://github.com/CrisMader)
 ---
 
-## 🚀 Proyecto destacado
+# 🚀 Tecnologías
 
-### GoalEs
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+</p>
+
+**Responsive Web Design 📱**
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask"/>
+</p>
+
+JWT Authentication 🔐
+
+---
+
+## 🗄️ Base de Datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+SQLAlchemy ORM
+
+---
+
+## 🛠️ Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest"/>
+</p>
+
+---
+
+# 📊 Mis Estadísticas de GitHub!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisMader&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMader&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CrisMader&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Mi Actividad:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisMader&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Se me ha escapado la serpiente... srry
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🚀 Proyecto Destacado
+
+## GoalEs
 
 Plataforma web que conecta **coaches con personas que quieren ampliar sus conocimientos** mediante cursos accesibles.
 
-**Stack:** React · Flask · PostgreSQL · SQLAlchemy
+**Stack**
+
+React · Flask · PostgreSQL · SQLAlchemy
 
 **Características**
 
-* 🔐 Autenticación con JWT
-* 💳 Pagos con Stripe
-* 🗺️ Integración con Google Maps API
-* ⚡ Comunicación en tiempo real con Socket.IO
+🔐 JWT Authentication
+💳 Pagos con Stripe
+🗺️ Google Maps API
+⚡ Comunicación en tiempo real con Socket.IO
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
+
+<p align="center">
 
 💼 LinkedIn
 https://www.linkedin.com/in/cristian-trapiello/
 
 📧 Email
 [mader.projects@gmail.com](mailto:mader.projects@gmail.com)
+
+</p>
+
