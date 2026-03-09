@@ -1,4 +1,4 @@
-# 👋 Hey, I'm
+# 📁 Hey, I'm
 ![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Cristian-Trapiello)
 
 <p align="center">
@@ -25,9 +25,9 @@ const cristian = {
 
 ---
 
-## ⚡ Tech Stack
+## ├── ⚡ Tech Stack
 
-### 🎨 Frontend
+### │   ├── 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@ const cristian = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### │   ├── ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,14 +48,14 @@ const cristian = {
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FF00C8"/>
 </p>
 
-### 🗄️ Databases
+### │   ├── 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Dev Environment
+### │   ├── 🛠️ Tools & Dev Environment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -64,7 +64,7 @@ const cristian = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### ⚡ External Integrations
+### │   └── ⚡ External Integrations
 
 <p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
@@ -80,7 +80,7 @@ const cristian = {
 
 ---
 
-## 💬 Dev Quote
+## ├── 💬 Dev Quote
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=5000&pause=2000&color=00FF9C&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.%22+—+Martin+Fowler" />
@@ -88,7 +88,7 @@ const cristian = {
 
 ---
 
-## 📊 GitHub Stats
+## ├── 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CrisMader&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00C8&fire=FF00C8&currStreakLabel=00FF9C"/>
@@ -96,7 +96,7 @@ const cristian = {
 
 ---
 
-## 📈 Activity
+## ├── 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisMader&theme=tokyo-night&bg_color=0D1117&color=00FF9C&line=FF00C8&point=FFFFFF&hide_border=true"/>
@@ -104,7 +104,7 @@ const cristian = {
 
 ---
 
-## 🐍 The snake got loose... srry
+## ├── 🐍 The snake got loose... srry
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -112,7 +112,7 @@ const cristian = {
 
 ---
 
-## 🚀 Featured Project
+## ├── 🚀 Featured Project
 
 <div align="center">
 
@@ -136,7 +136,7 @@ const cristian = {
 
 ---
 
-## 📫 Contact
+## └── 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-trapiello/">
@@ -155,4 +155,3 @@ const cristian = {
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%BE+%7C+Let%27s+build+something+together" />
 </p>
-
