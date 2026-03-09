@@ -28,7 +28,10 @@
 <img src="https://skillicons.dev/icons?i=python,flask"/>
 </p>
 
-### JWT Authentication 🔐
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
 
 ---
 
@@ -38,16 +41,26 @@
 <img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
-### SQLAlchemy ORM
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+</p>
 
 ---
 
 ## 🛠️ Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,jest"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest,vscode"/>
 </p>
 
+## ⚡ Herramientas Externas
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
 ---
 
 # 📊 Mis Estadísticas de GitHub!
