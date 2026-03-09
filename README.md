@@ -18,8 +18,8 @@ const cristian = {
   stack:     ["React", "Python", "Flask", "PostgreSQL", "SQLAlchemy"],
   currently: "@ 4Geeks Academy — leveling up every day",
   passion:   "Building things that matter, from idea to deployment",
-  status:    "Always learning... always shipping 🚀",
-  coffee:    true // non-negotiable ☕
+  status:    "Always learning... always shipping",
+  coffee:    true // non-negotiable
 };
 ```
 
