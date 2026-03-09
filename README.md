@@ -1,4 +1,5 @@
-# 👋 Hola, soy Cristian
+# 👋 Hola, soy
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Cristian-Trapiello)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
