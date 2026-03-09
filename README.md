@@ -75,7 +75,7 @@ const cristian = {
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk5MWY1NjZ1bWFyZ3ZmcHVzMnpoZ3FzeGhlY3ZncWJzMjdnNHJ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="800" alt="Lofi Neon Night City Pixel Art"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdrNGEzeDB4cmN5dWp6dTdrZjMzcDJmcWJhb3J0aGIwb241ZDJiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="800" alt="Lofi Neon Night City Pixel Art"/>
 </p>
 
 ---
