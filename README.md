@@ -15,10 +15,10 @@
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,tailwind"/>
 </p>
 
-**Responsive Web Design 📱**
+### Responsive Web Design 📱
 
 ---
 
@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=python,flask"/>
 </p>
 
-JWT Authentication 🔐
+### JWT Authentication 🔐
 
 ---
 
@@ -38,7 +38,7 @@ JWT Authentication 🔐
 <img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
-SQLAlchemy ORM
+### SQLAlchemy ORM
 
 ---
 
@@ -51,11 +51,6 @@ SQLAlchemy ORM
 ---
 
 # 📊 Mis Estadísticas de GitHub!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrisMader&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMader&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CrisMader&theme=tokyonight&hide_border=true"/>
