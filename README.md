@@ -15,7 +15,7 @@
 const cristian = {
   role:      "Full Stack Developer",
   location:  "Madrid, Spain 🇪🇸",
-  stack:     ["React", "Python", "Flask", "JavaScript", "SQL"],
+  stack:     ["React", "Python", "FastAPI", "JavaScript", "SQL"],
   currently: "@ 4Geeks Academy — leveling up every day",
   passion:   "Building things that matter, from idea to deployment",
   status:    "Always learning... always shipping",
