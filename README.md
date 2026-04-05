@@ -2,7 +2,7 @@
 ![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Cristian-Trapiello)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+things+from+scratch+;Always+learning...+always+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask+%7C+FastAPI+%7C+PostgreSQL;Building+things+from+scratch+;Always+learning...+always+shipping" />
 </p>
 
 <p align="center">
