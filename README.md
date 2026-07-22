@@ -25,7 +25,7 @@ const cristian = {
  
 ## ├── ⚡ Tech Stack
  
-### │   ├── 🎨 Frontend
+## │   ├── 🎨 Frontend
  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,7 +36,7 @@ const cristian = {
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-### │   ├── ⚙️ Backend
+## │   ├── ⚙️ Backend
  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,14 +45,14 @@ const cristian = {
   <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FF00C8"/>
 </p>
-### │   ├── 🗄️ Databases
+## │   ├── 🗄️ Databases
  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
-### │   ├── 🤖 AI & Automation
+## │   ├── 🤖 AI & Automation
  
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
@@ -61,7 +61,7 @@ const cristian = {
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
 </p>
-### │   ├── 🛠️ Tools & Dev Environment
+## │   ├── 🛠️ Tools & Dev Environment
  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -71,7 +71,7 @@ const cristian = {
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
-### │   └── ⚡ External Integrations
+## │   └── ⚡ External Integrations
  
 <p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
@@ -113,25 +113,7 @@ const cristian = {
 </p>
 ---
  
-## ├── 🚀 Featured Project
- 
-<div align="center">
-### [![GoalEs](https://img.shields.io/badge/▶%20GoalEs-FF00C8?style=for-the-badge&logoColor=white)](https://github.com/CrisMader/GoalEs)
- 
-> Web platform that connects **coaches** with people who want to expand their knowledge through accessible and affordable courses.
- 
-<br/>
-| Layer | Tech |
-|-------|------|
-| 🎨 Frontend | React · JavaScript · HTML · CSS |
-| ⚙️ Backend | Python · Flask · REST API |
-| 🗄️ Database | PostgreSQL · SQLAlchemy (ORM) |
-| 🔐 Auth | JWT Authentication |
-| ⚡ Real-time | Socket.IO |
-| 💳 Payments | Stripe |
-| 🗺️ Maps | Google Maps API |
- 
-</div>
+## ├── 🚀 Featured Project <div align="center"> ### [![GoalEs](https://img.shields.io/badge/▶%20GoalEs-FF00C8?style=for-the-badge&logoColor=white)](https://github.com/CrisMader/GoalEs) > Web platform that connects **coaches** with people who want to expand their knowledge through accessible and affordable courses. <br/> | Layer | Tech ||-------|------|| 🎨 Frontend | React · JavaScript · HTML · CSS || ⚙️ Backend | Python · Flask · REST API || 🗄️ Database | PostgreSQL · SQLAlchemy (ORM) || 🔐 Auth | JWT Authentication || ⚡ Real-time | Socket.IO || 💳 Payments | Stripe || 🗺️ Maps | Google Maps API | </div>
 ---
  
 ## └── 📫 Contact
