@@ -113,7 +113,24 @@ const cristian = {
 </p>
 ---
  
-## ├── 🚀 Featured Project <div align="center"> ### [![GoalEs](https://img.shields.io/badge/▶%20GoalEs-FF00C8?style=for-the-badge&logoColor=white)](https://github.com/CrisMader/GoalEs) > Web platform that connects **coaches** with people who want to expand their knowledge through accessible and affordable courses. <br/> | Layer | Tech ||-------|------|| 🎨 Frontend | React · JavaScript · HTML · CSS || ⚙️ Backend | Python · Flask · REST API || 🗄️ Database | PostgreSQL · SQLAlchemy (ORM) || 🔐 Auth | JWT Authentication || ⚡ Real-time | Socket.IO || 💳 Payments | Stripe || 🗺️ Maps | Google Maps API | </div>
+## ├── 🚀 Featured Project 
+<div align="center"> 
+### [![GoalEs](https://img.shields.io/badge/▶%20GoalEs-FF00C8?style=for-the-badge&logoColor=white)](https://github.com/CrisMader/GoalEs) 
+> Web platform that connects **coaches** with people who want to expand their knowledge through accessible and affordable courses. 
+<br/> 
+ 
+| Layer | Tech |
+|-------|------|
+| 🎨 Frontend | React · JavaScript · HTML · CSS |
+| ⚙️ Backend | Python · Flask · REST API |
+| 🗄️ Database | PostgreSQL · SQLAlchemy (ORM) |
+| 🔐 Auth | JWT Authentication |
+| ⚡ Real-time | Socket.IO |
+| 💳 Payments | Stripe |
+| 🗺️ Maps | Google Maps API | 
+
+</div>
+
 ---
  
 ## └── 📫 Contact
