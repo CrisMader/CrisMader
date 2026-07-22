@@ -13,10 +13,10 @@
 
 ```javascript
 const cristian = {
-  role:      "Full Stack Developer",
+  role:      "AI Engineer & Full Stack Developer",
   location:  "Madrid, Spain 🇪🇸",
   stack:     ["React", "Python", "FastAPI", "JavaScript", "SQL"],
-  currently: "@ 4Geeks Academy — leveling up every day",
+  currently: "@ BOND LABS — building AI agents & automated workflows",
   passion:   "Building things that matter, from idea to deployment",
   status:    "Always learning... always shipping",
   coffee:    true // non-negotiable
